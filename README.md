@@ -96,15 +96,15 @@ The AR object is rendered on the chessboard and follows the camera movement in r
 
 ### Example 3
 
-![result2](demo_1.png)
+![result2](demo_2.png)
 
 ### Example 4
 
-![result2](demo_1.png)
+![result2](demo_5.png)
 
 ### Example 5
 
-![result2](demo_1.png)
+![result2](demo_6.png)
 
 ---
 
