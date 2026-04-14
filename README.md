@@ -117,10 +117,16 @@ Finally, virtual objects are projected onto the image using `projectPoints`.
 
 The AR object remains aligned with the chessboard even when the camera moves, demonstrating accurate pose estimation.
 
+The AR visualization includes not only a basic cube but also an additional custom-shaped object, making it different from the standard example.
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project successfully demonstrates real-time camera pose estimation and AR visualization using OpenCV.
 
 The system is robust under different viewing angles and provides stable AR rendering on a planar surface.
+
+##  Settings
+
+- Chessboard size: 9 x 7 inner corners  
+- Square size: 20 mm  
